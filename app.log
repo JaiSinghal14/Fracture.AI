@@ -1,0 +1,126 @@
+2025-06-22 21:21:25,678 - INFO - Application starting
+2025-06-22 21:21:25,678 - INFO - Script directory: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0
+2025-06-22 21:21:25,678 - INFO - Web directory: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0\web
+2025-06-22 21:21:25,707 - INFO - Looking for model at: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0\weights\best.pt
+2025-06-22 21:21:27,749 - INFO - Model loaded successfully
+2025-06-22 21:21:28,785 - DEBUG - Initializing WebSocket
+2025-06-22 21:21:28,786 - DEBUG - Validating WebSocket request
+2025-06-22 21:21:28,787 - INFO - 127.0.0.1 - - [2025-06-22 21:21:28] "GET /index.html HTTP/1.1" 200 4571 0.001240
+2025-06-22 21:21:28,802 - DEBUG - Initializing WebSocket
+2025-06-22 21:21:28,802 - DEBUG - Validating WebSocket request
+2025-06-22 21:21:28,803 - INFO - 127.0.0.1 - - [2025-06-22 21:21:28] "GET /eel.js HTTP/1.1" 200 6048 0.000473
+2025-06-22 21:21:28,804 - DEBUG - Initializing WebSocket
+2025-06-22 21:21:28,804 - DEBUG - Validating WebSocket request
+2025-06-22 21:21:28,805 - INFO - 127.0.0.1 - - [2025-06-22 21:21:28] "GET /script.js HTTP/1.1" 200 4131 0.000942
+2025-06-22 21:21:28,917 - DEBUG - Initializing WebSocket
+2025-06-22 21:21:28,917 - DEBUG - Validating WebSocket request
+2025-06-22 21:21:28,920 - INFO - 127.0.0.1 - - [2025-06-22 21:21:28] "GET /favicon.ico HTTP/1.1" 404 882 0.002955
+2025-06-22 21:21:29,218 - DEBUG - Initializing WebSocket
+2025-06-22 21:21:29,218 - DEBUG - Validating WebSocket request
+2025-06-22 21:21:29,218 - DEBUG - Attempting to upgrade connection
+2025-06-22 21:21:29,218 - DEBUG - WebSocket request accepted, switching protocols
+2025-06-22 21:21:29,220 - INFO - Returning class names: ['elbow positive', 'fingers positive', 'forearm fracture', 'humerus fracture', 'humerus', 'shoulder fracture', 'wrist positive']
+2025-06-22 21:22:18,267 - INFO - Application starting
+2025-06-22 21:22:18,268 - INFO - Script directory: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0
+2025-06-22 21:22:18,268 - INFO - Web directory: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0\web
+2025-06-22 21:22:18,289 - INFO - Looking for model at: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0\weights\best.pt
+2025-06-22 21:22:18,664 - INFO - Model loaded successfully
+2025-06-22 21:22:19,624 - DEBUG - Initializing WebSocket
+2025-06-22 21:22:19,625 - DEBUG - Validating WebSocket request
+2025-06-22 21:22:19,625 - INFO - 127.0.0.1 - - [2025-06-22 21:22:19] "GET /index.html HTTP/1.1" 200 4468 0.000786
+2025-06-22 21:22:19,639 - DEBUG - Initializing WebSocket
+2025-06-22 21:22:19,640 - DEBUG - Validating WebSocket request
+2025-06-22 21:22:19,640 - INFO - 127.0.0.1 - - [2025-06-22 21:22:19] "GET /eel.js HTTP/1.1" 200 6048 0.000530
+2025-06-22 21:22:19,641 - DEBUG - Initializing WebSocket
+2025-06-22 21:22:19,641 - DEBUG - Validating WebSocket request
+2025-06-22 21:22:19,642 - INFO - 127.0.0.1 - - [2025-06-22 21:22:19] "GET /script.js HTTP/1.1" 200 4131 0.000757
+2025-06-22 21:22:19,839 - DEBUG - Initializing WebSocket
+2025-06-22 21:22:19,839 - DEBUG - Validating WebSocket request
+2025-06-22 21:22:19,841 - INFO - 127.0.0.1 - - [2025-06-22 21:22:19] "GET /favicon.ico HTTP/1.1" 404 882 0.002466
+2025-06-22 21:22:20,118 - DEBUG - Initializing WebSocket
+2025-06-22 21:22:20,118 - DEBUG - Validating WebSocket request
+2025-06-22 21:22:20,118 - DEBUG - Attempting to upgrade connection
+2025-06-22 21:22:20,118 - DEBUG - WebSocket request accepted, switching protocols
+2025-06-22 21:22:20,119 - INFO - Returning class names: ['elbow positive', 'fingers positive', 'forearm fracture', 'humerus fracture', 'humerus', 'shoulder fracture', 'wrist positive']
+2025-06-22 21:22:28,224 - DEBUG - Closed WebSocket
+2025-06-22 21:22:28,224 - DEBUG - Failed to write closing frame -> closing socket
+2025-06-22 21:22:28,224 - DEBUG - Closed WebSocket
+2025-06-22 21:22:29,235 - INFO - Application exiting
+2025-06-22 21:24:49,742 - INFO - Application starting
+2025-06-22 21:24:49,743 - INFO - Script directory: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0
+2025-06-22 21:24:49,743 - INFO - Web directory: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0\web
+2025-06-22 21:24:49,749 - INFO - Looking for model at: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0\weights\best.pt
+2025-06-22 21:24:50,081 - INFO - Model loaded successfully
+2025-06-22 21:24:51,012 - DEBUG - Initializing WebSocket
+2025-06-22 21:24:51,012 - DEBUG - Validating WebSocket request
+2025-06-22 21:24:51,013 - INFO - 127.0.0.1 - - [2025-06-22 21:24:51] "GET /index.html HTTP/1.1" 200 4447 0.000990
+2025-06-22 21:24:51,673 - DEBUG - Initializing WebSocket
+2025-06-22 21:24:51,673 - DEBUG - Validating WebSocket request
+2025-06-22 21:24:51,675 - INFO - 127.0.0.1 - - [2025-06-22 21:24:51] "GET /favicon.ico HTTP/1.1" 404 882 0.001834
+2025-06-22 21:26:57,441 - INFO - Application starting
+2025-06-22 21:26:57,441 - INFO - Script directory: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0
+2025-06-22 21:26:57,441 - INFO - Web directory: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0\web
+2025-06-22 21:26:57,458 - INFO - Looking for model at: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0\weights\best.pt
+2025-06-22 21:26:57,781 - INFO - Model loaded successfully
+2025-06-22 21:26:58,706 - DEBUG - Initializing WebSocket
+2025-06-22 21:26:58,707 - DEBUG - Validating WebSocket request
+2025-06-22 21:26:58,708 - INFO - 127.0.0.1 - - [2025-06-22 21:26:58] "GET /index.html HTTP/1.1" 200 6539 0.001713
+2025-06-22 21:26:58,793 - DEBUG - Initializing WebSocket
+2025-06-22 21:26:58,793 - DEBUG - Validating WebSocket request
+2025-06-22 21:26:58,796 - INFO - 127.0.0.1 - - [2025-06-22 21:26:58] "GET /favicon.ico HTTP/1.1" 404 882 0.003022
+2025-06-22 21:29:49,683 - INFO - Application starting
+2025-06-22 21:29:49,683 - INFO - Script directory: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0
+2025-06-22 21:29:49,683 - INFO - Web directory: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0\web
+2025-06-22 21:29:49,710 - INFO - Looking for model at: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0\weights\best.pt
+2025-06-22 21:29:50,058 - INFO - Model loaded successfully
+2025-06-22 21:29:50,982 - DEBUG - Initializing WebSocket
+2025-06-22 21:29:50,982 - DEBUG - Validating WebSocket request
+2025-06-22 21:29:50,983 - INFO - 127.0.0.1 - - [2025-06-22 21:29:50] "GET /index.html HTTP/1.1" 200 7643 0.001127
+2025-06-22 21:29:51,067 - DEBUG - Initializing WebSocket
+2025-06-22 21:29:51,067 - DEBUG - Validating WebSocket request
+2025-06-22 21:29:51,069 - INFO - 127.0.0.1 - - [2025-06-22 21:29:51] "GET /favicon.ico HTTP/1.1" 404 882 0.002337
+2025-06-22 21:31:17,247 - DEBUG - Initializing WebSocket
+2025-06-22 21:31:17,247 - DEBUG - Validating WebSocket request
+2025-06-22 21:31:17,248 - INFO - 127.0.0.1 - - [2025-06-22 21:31:17] "GET /index.html HTTP/1.1" 200 8166 0.000677
+2025-06-22 21:31:38,185 - INFO - Application starting
+2025-06-22 21:31:38,186 - INFO - Script directory: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0
+2025-06-22 21:31:38,186 - INFO - Web directory: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0\web
+2025-06-22 21:31:38,194 - INFO - Looking for model at: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0\weights\best.pt
+2025-06-22 21:31:38,563 - INFO - Model loaded successfully
+2025-06-22 21:31:39,194 - DEBUG - Initializing WebSocket
+2025-06-22 21:31:39,194 - DEBUG - Validating WebSocket request
+2025-06-22 21:31:39,195 - INFO - 127.0.0.1 - - [2025-06-22 21:31:39] "GET /index.html HTTP/1.1" 200 8166 0.000856
+2025-06-22 21:31:39,274 - DEBUG - Initializing WebSocket
+2025-06-22 21:31:39,274 - DEBUG - Validating WebSocket request
+2025-06-22 21:31:39,277 - INFO - 127.0.0.1 - - [2025-06-22 21:31:39] "GET /favicon.ico HTTP/1.1" 404 882 0.003012
+2025-06-22 21:34:38,068 - DEBUG - Initializing WebSocket
+2025-06-22 21:34:38,068 - DEBUG - Validating WebSocket request
+2025-06-22 21:34:38,069 - INFO - 127.0.0.1 - - [2025-06-22 21:34:38] "GET /index.html HTTP/1.1" 200 8166 0.000715
+2025-06-22 21:42:18,466 - INFO - Application starting
+2025-06-22 21:42:18,466 - INFO - Script directory: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0
+2025-06-22 21:42:18,466 - INFO - Web directory: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0\web
+2025-06-22 21:42:18,472 - INFO - Looking for model at: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0\weights\best.pt
+2025-06-22 21:42:18,790 - INFO - Model loaded successfully
+2025-06-22 21:42:19,754 - DEBUG - Initializing WebSocket
+2025-06-22 21:42:19,754 - DEBUG - Validating WebSocket request
+2025-06-22 21:42:19,756 - INFO - 127.0.0.1 - - [2025-06-22 21:42:19] "GET /index.html HTTP/1.1" 200 5410 0.001408
+2025-06-22 21:42:19,901 - DEBUG - Initializing WebSocket
+2025-06-22 21:42:19,901 - DEBUG - Validating WebSocket request
+2025-06-22 21:42:19,903 - INFO - 127.0.0.1 - - [2025-06-22 21:42:19] "GET /favicon.ico HTTP/1.1" 404 882 0.002528
+2025-06-22 22:01:07,613 - DEBUG - Initializing WebSocket
+2025-06-22 22:01:07,613 - DEBUG - Validating WebSocket request
+2025-06-22 22:01:07,614 - INFO - 127.0.0.1 - - [2025-06-22 22:01:07] "GET /index.html HTTP/1.1" 200 8872 0.001941
+2025-06-22 22:01:23,953 - DEBUG - Initializing WebSocket
+2025-06-22 22:01:23,953 - DEBUG - Validating WebSocket request
+2025-06-22 22:01:23,958 - INFO - 127.0.0.1 - - [2025-06-22 22:01:23] "GET /index.html HTTP/1.1" 200 8872 0.004881
+2025-06-25 18:43:09,413 - INFO - Application starting
+2025-06-25 18:43:09,414 - INFO - Script directory: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0
+2025-06-25 18:43:09,414 - INFO - Web directory: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0\web
+2025-06-25 18:43:09,455 - INFO - Looking for model at: C:\Users\JAI\Downloads\x-ray-bone-fracture-detection-app-main\x-ray-bone-fracture-detection-app-main\App v1.0\weights\best.pt
+2025-06-25 18:43:10,336 - INFO - Model loaded successfully
+2025-06-25 18:43:11,812 - DEBUG - Initializing WebSocket
+2025-06-25 18:43:11,812 - DEBUG - Validating WebSocket request
+2025-06-25 18:43:11,814 - INFO - 127.0.0.1 - - [2025-06-25 18:43:11] "GET /index.html HTTP/1.1" 200 8872 0.001814
+2025-06-25 18:43:11,910 - DEBUG - Initializing WebSocket
+2025-06-25 18:43:11,910 - DEBUG - Validating WebSocket request
+2025-06-25 18:43:11,913 - INFO - 127.0.0.1 - - [2025-06-25 18:43:11] "GET /favicon.ico HTTP/1.1" 404 882 0.003067
