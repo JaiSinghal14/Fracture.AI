@@ -57,23 +57,6 @@ Performance metrics of the YOLOv8l model on the test set:
 
 > These results indicate that the model shows early promise for fracture detection and will be further optimized for clinical-grade usage.
 
-## 🧪 How to Use
-
-1. 🖼️ **Upload an X-ray image** through the drag-and-drop web interface.
-2. 🔍 The app automatically detects and highlights potential fractures.
-3. 📊 View the annotated image along with detection probabilities.
-4. 📝 (Optional) Provide feedback to improve future model performance.
-
----
-
-## 🔮 Future Roadmap
-
-- 🔧 Retrain with a larger, clinically verified dataset
-- 🎨 Improved UI for enhanced visualization (heatmaps, multi-view support)
-- 🧠 Model explainability with Grad-CAM
-- 🩺 Integration with Electronic Health Record (EHR) systems
-- 🌍 Localization support for global deployment
-
 ---
 
 ## 🙌 Acknowledgements
